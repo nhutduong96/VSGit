@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 chaaasasfa
 Test1
+=======
+change
+>>>>>>> parent of 931762f... change
